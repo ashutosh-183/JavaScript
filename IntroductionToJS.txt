@@ -1,0 +1,18 @@
+High level, object oriented, multi-paradigm programming language.
+
+High-Level -> Not need to think about memory management, lot of abstractions.
+
+object-oriented -> Can use object to solve real world problems
+
+multi-paradigm -> we can use different styles of coding. imperative and declarative.
+
+
+Role in web development 
+
+Core technologies of web -> HTML, CSS, Javascript
+
+Javascript -> Dynamic and Interactive effect
+
+HTML -> Skeleton (Nouns)
+CSS -> Design (Adjective)
+Javascript -> Functions (Verb)
